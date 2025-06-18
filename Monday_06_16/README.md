@@ -58,3 +58,19 @@ Hi, I’m Hasan Zaidi — a Senior iOS Engineer with 7+ years building secure fi
 ---
 
 
+v3.3
+=
+
+---
+
+I’m a Senior iOS Engineer who turns legacy pain into clean, testable code. At Rivian, I overhauled their connected vehicle app—refactoring tangled MVC into scalable MVVM with Combine, fixing BLE key pairing failures, and building resilient real-time telemetry. At Truist, I elevated their banking app's stability and speed, leading refactors and boosting test coverage. Whether it’s cars or cash, I bring clarity to chaos and ship code that lasts.
+
+---
+
+
+v3.4
+=
+
+> "I’m a Senior iOS Engineer who specializes in building reliable, scalable apps for complex systems like connected vehicles. At Rivian, I led efforts to modernize the mobile app—from stabilizing BLE key exchanges to building real-time telemetry using Combine and MVVM. I focus on writing clean, testable code and leading with architecture that scales."
+
+
