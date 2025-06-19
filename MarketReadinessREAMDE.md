@@ -118,7 +118,7 @@
 ---
 
 
-##Elevator Pitch Points
+## Elevator Pitch Points
 
 Sure! Here’s your statement rewritten as clear bullet points in plain, readable English:
 
