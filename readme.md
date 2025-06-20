@@ -151,3 +151,13 @@ I know how to build apps that users **trust**, and I understand the **regulatory
 ---
 
 
+
+
+
+
+Dont add alot of fillers after a sentence (A, and, uh,....)
+caching for api requests we can use URLSessionconfiguration and Custom caching using coredata and filemanager
+For large scale architecture, what to use
+Offline data - Coredata, Caching
+
+

@@ -168,15 +168,20 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 ## Elevator Pitch Points
 
 
-* Senior iOS Engineer with experience building apps that are stable and easy to scale
-* Specialized in working with complex systems, like connected vehicles
+* Lead iOS Engineer with more than **10 years** experience building apps that are stable and easy to scale using **SOLID principles** 
+* Specialized in working with complex systems, like **connected vehicles at Rivian** 
 * Helped improve and modernize the Rivian mobile app
-* Fixed issues with Bluetooth key exchanges for car access
-* Built real-time data features using Combine and MVVM
-* Focused on writing code that is clean and easy to test
+* Fixed issues with **Bluetooth key exchanges** for car access
+
+* In my recent project with **Ally Bank** I used **Combine and MVVM** to biuld real time data features
+
+* **Focused on writing clean, testable code** by separating logic from views—so at least **80% of the app is covered and easy to test**
+* **Prioritize clean architecture** by separating logic from views, ensuring **80% of the codebase is easily testable and maintainable**
+
 * Took the lead in designing app architecture that can grow over time
-
-
+* Designs iOS apps following **SOLID principles** for **clean, maintainable, and scalable code*
+* Committed to building apps users **trust and rely on**, solving complex challenges like **login reliability**, **offline support**, and **energy-efficient UI**
+* And I feel strongly that i will be an asset to the [end client]
 
 
 
@@ -196,7 +201,7 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 
 ---
 
-### 🏦 **Senior iOS Engineer – Truist Bank (Digital Banking App)**
+### 🏦 **Lead iOS Engineer – Ally Bank (Digital Banking App)**
 
 * Led architecture of secure banking features like **Face ID / Touch ID** login
 * Drove adoption of **MVVM-C** and **Combine** for cleaner, modular code

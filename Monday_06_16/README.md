@@ -74,3 +74,47 @@ v3.4
 > "I’m a Senior iOS Engineer who specializes in building reliable, scalable apps for complex systems like connected vehicles. At Rivian, I led efforts to modernize the mobile app—from stabilizing BLE key exchanges to building real-time telemetry using Combine and MVVM. I focus on writing clean, testable code and leading with architecture that scales."
 
 
+
+
+
+v4.0 
+=
+
+**Hasan Zaidi — Lead iOS Engineer**
+
+* **10+ years building secure, scalable iOS apps** with a focus on fintech and connected vehicle domains
+* Proven track record at **Truist Bank** and **Capital One**, delivering apps that handle **sensitive financial data** with **enterprise-grade security**
+* Led design and implementation of **modular architectures (MVVM-C + Combine)** enabling **testable, maintainable, reactive UI**
+* Spearheaded **SOC 2 and FFIEC-compliant secure authentication flows**, including **biometric login and token refresh**
+* Strengthened **CI/CD pipelines** for faster, safer releases while maintaining **strict compliance and quality**
+* Expert in integrating **real-time data streams** via **WebSocket, REST APIs, and Bluetooth Low Energy** for seamless user experiences
+* Passionate mentor and collaborator—driving team-wide consistency in **code quality, security standards, and accessibility**
+* Committed to building apps users **trust and rely on**, solving complex challenges like **login reliability**, **offline support**, and **energy-efficient UI**
+* Excited to bring deep fintech expertise and leadership to **Bank of America**, helping deliver next-level secure mobile experiences
+
+---
+
+Want me to tailor it more casual, formal, or ultra-concise?
+
+
+
+v4.1
+=
+Here’s a super concise elevator pitch bullet list focusing on your mastery of **SOLID principles** in iOS development:
+
+---
+
+**Hasan Zaidi — Lead iOS Engineer with SOLID expertise**
+
+* Designs iOS apps following **SOLID principles** for **clean, maintainable, and scalable code**
+* Applies **Single Responsibility** by breaking features into focused, testable modules
+* Uses **Open/Closed** to extend functionality without modifying existing code, ensuring stability
+* Implements **Liskov Substitution** to design interchangeable components for flexibility
+* Follows **Interface Segregation** to keep APIs lean and specific, improving usability
+* Employs **Dependency Inversion** to reduce coupling and enhance testability with protocols and abstractions
+* Combines SOLID with **MVVM-C architecture** and **Combine** for robust, reactive apps
+* Delivers secure, reliable fintech solutions that scale and adapt with business needs
+
+---
+
+
