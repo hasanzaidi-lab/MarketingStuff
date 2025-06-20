@@ -169,9 +169,9 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 
 
 * Lead iOS Engineer with more than **10 years** experience building apps that are stable and easy to scale using **SOLID principles** 
+
 * Specialized in working with complex systems, like **connected vehicles at Rivian** 
-* Helped improve and modernize the Rivian mobile app
-* Fixed issues with **Bluetooth key exchanges** for car access
+* Helped improve and modernize the Rivian mobile app by fixing issues with **Bluetooth key exchanges** for car access
 
 * In my recent project with **Ally Bank** I used **Combine and MVVM** to biuld real time data features
 
@@ -181,6 +181,7 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 * Took the lead in designing app architecture that can grow over time
 * Designs iOS apps following **SOLID principles** for **clean, maintainable, and scalable code*
 * Committed to building apps users **trust and rely on**, solving complex challenges like **login reliability**, **offline support**, and **energy-efficient UI**
+
 * And I feel strongly that i will be an asset to the [end client]
 
 
