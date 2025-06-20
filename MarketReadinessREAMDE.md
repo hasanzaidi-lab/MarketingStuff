@@ -120,7 +120,6 @@
 
 ## Elevator Pitch Points
 
-Sure! Here’s your statement rewritten as clear bullet points in plain, readable English:
 
 * Senior iOS Engineer with experience building apps that are stable and easy to scale
 * Specialized in working with complex systems, like connected vehicles
@@ -130,4 +129,37 @@ Sure! Here’s your statement rewritten as clear bullet points in plain, readabl
 * Focused on writing code that is clean and easy to test
 * Took the lead in designing app architecture that can grow over time
 
-Let me know if you want these tailored for a resume or interview.
+
+
+
+
+
+---
+
+### 🚗 **Senior iOS Engineer – Rivian (Connected Vehicle App)**
+
+* Modernized Rivian’s iOS app for electric vehicles with improved performance and scalability
+* Stabilized **BLE key exchanges** for secure digital car access using CoreBluetooth
+* Built **real-time vehicle telemetry** and smart charging features using **Combine** and **MVVM**
+* Integrated **REST APIs** and **WebSockets** to deliver live data updates
+* Designed modular and testable codebases with energy-efficient UI using **SwiftUI** and **UIKit**
+* Collaborated across hardware, backend, and UX teams for seamless feature delivery
+
+**🔧 Tech Stack:** Swift, SwiftUI, UIKit, MVVM, Combine, CoreLocation, URLSession, Keychain, REST APIs, CoreBluetooth
+
+---
+
+### 🏦 **Senior iOS Engineer – Truist Bank (Digital Banking App)**
+
+* Led architecture of secure banking features like **Face ID / Touch ID** login
+* Drove adoption of **MVVM-C** and **Combine** for cleaner, modular code
+* Built offline persistence with **CoreData** and background syncing for smooth user experience
+* Developed custom networking layer with retry logic and error handling
+* Collaborated with security teams to ensure **Keychain** compliance and data protection
+* Mentored junior developers, led code reviews, and improved team code quality
+* Contributed to CI/CD processes and Agile sprint planning
+
+**🔧 Tech Stack:** Swift, UIKit, SwiftUI, MVVM-C, Combine, CoreData, Keychain, RESTful APIs, Face ID / Touch ID, Push Notifications, CI/CD
+
+---
+
