@@ -5,9 +5,9 @@
 
 ---
 
-#### **1. Truist Bank – Digital Banking iOS App**
+#### **1. Ally Bank – Digital Banking iOS App**
 
-* **Location**: Charlotte, NC
+* **Location**: Detroit, MI
 * **Commute**: \~20 miles by own vehicle
 * **Local Favorites**: The Cowfish Sushi Burger Bar, Mint Museum Uptown, EpiCentre
 * **Environment**:
@@ -23,14 +23,39 @@
   * Active collaboration via daily standups, sprint planning, design reviews
 * **Role**: **Senior iOS Engineer**
 
-  * Led MVVM-C & Combine adoption
-  * Developed Face ID/Touch ID auth, CoreData offline sync, robust networking
+  * Led **MVVM-C & Combine** adoption
+  * Developed Face ID/Touch ID auth, **CoreData** offline sync, robust networking
   * API design, junior mentoring, compliance alignment
 * **Technologies**: Swift 5.x, UIKit, SwiftUI, Combine, CoreData, URLSession
 
   * Tools: Alamofire, SwiftLint, Fastlane, Firebase Crashlytics, Sentry
 * **Leadership Style**: Mentorship-focused, collaborative, proactive
 * **Duration**: 3 years (ongoing)
+
+DESCRIPTION:-
+---
+Architected and delivered secure, high-performance iOS applications modeled on enterprise-grade digital banking experiences—supporting **scalable user authentication**, **transactional flows**, and **account management**.
+
+Led the implementation of **MVVM-C architecture with Combine** to support modular feature delivery, improved testability, and long-term maintainability—aligned with patterns used in **regulated fintech environments** like **Truist**.
+
+Designed and integrated end-to-end **secure authentication flows** utilizing **Keychain Services**, **Face ID / Touch ID**, and **token refresh logic**, meeting industry standards for **SOC 2**, **FFIEC** compliance.
+
+Developed robust **networking layers** with **custom API clients**, incorporating **retry logic**, **caching policies**, and **transactional error handling** for **audit-ready reliability**.
+
+Built **high-fidelity UIs** in **SwiftUI** and **UIKit**, optimized for **real-time financial data**, **ADA compliance**, and **cross-device consistency**—boosting **trust and usability**.
+
+Collaborated with **security and backend teams** to define **API contracts**, enforce **encryption standards**, and align on **data governance**.
+
+Implemented **CoreData-backed local persistence** with **background syncing** for **offline access** to sensitive account data.
+
+Integrated **push notification workflows** for **fraud alerts**, **real-time transaction monitoring**, and **user trust**.
+
+Contributed to **CI/CD pipelines** and internal tooling to improve **release velocity** while maintaining **security and compliance guardrails**.
+
+**Mentored junior engineers** and **led code reviews**, driving consistency in **architecture**, **style**, and **test coverage** across the team.
+
+---
+
 
 ---
 
@@ -54,6 +79,28 @@
 * **Duration**: 2 years
 
 ---
+
+DESCRIPTION:-
+---
+
+Developed **scalable, user-centric iOS applications** with **advanced vehicle-style features**, including **remote control panels**, **real-time status updates**, and **smart scheduling**—reflective of **Rivian's connected vehicle experience**.
+
+Architected app modules using **MVVM with Combine** to ensure **reactive UI updates** and **maintainable code**, aligning with **scalable automotive app architecture** needs.
+
+Integrated **secure RESTful APIs** and **WebSocket connections** to manage **live telemetry**, **charging status**, and **remote commands**—like Rivian's **vehicle cloud services**.
+
+Implemented **biometric authentication** (**Face ID**, **Touch ID**) and **Keychain storage** for **secure credential and session handling**—critical for **privacy in EV control applications**.
+
+Utilized **CoreLocation** and **MapKit** to enable **real-time location tracking**, **charger discovery**, and **navigation**—mirroring features found in **Rivian's user apps**.
+
+Built **Bluetooth Low Energy (BLE) communication modules** using **CoreBluetooth** to simulate **proximity-based vehicle interactions** like **locking/unlocking** and **digital key exchange**.
+
+Followed **Apple's best practices** for **accessibility**, **offline support**, and **energy-efficient UI updates** to deliver a **premium and sustainable mobile experience** aligned with **Rivian's mission**.
+
+---
+
+
+
 
 #### **3. Frontier Airlines – iOS Mobile App**
 

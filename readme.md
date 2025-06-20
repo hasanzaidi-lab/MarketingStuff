@@ -57,7 +57,7 @@ Absolutely. Here are complete **STAR + SI** answers for behavioral interview que
 **(Tech disagreement, A/B testing resolution)**
 
 **S – Situation:**
-At Truist, during a security update, two engineers had conflicting approaches to biometric fallback logic—client-side vs. server-side. The debate stalled progress and impacted team morale.
+At Ally Bank, during a security update, two engineers had conflicting approaches to biometric fallback logic—client-side vs. server-side. The debate stalled progress and impacted team morale.
 
 **T – Task:**
 As the lead iOS engineer, I had to resolve the conflict quickly while maintaining technical quality and team alignment.
@@ -78,7 +78,7 @@ This change directly improved **user login speed**, reduced **customer complaint
 **(Leadership practices using Situational Leadership model)**
 
 **S – Situation:**
-As the senior iOS engineer at Truist, I was leading a cross-functional team with developers of varying experience levels.
+As the senior iOS engineer at Ally Bank, I was leading a cross-functional team with developers of varying experience levels.
 
 **T – Task:**
 I needed to ensure consistent output, unblock teammates, maintain code quality, and mentor less experienced devs—all while delivering critical features.
@@ -103,7 +103,7 @@ This led to **more predictable sprint outcomes** for product managers and improv
 **(Migrating from legacy to cloud-based systems)**
 
 **S – Situation:**
-Truist decided to deprecate our legacy user marketing profile service and migrate to a new **cloud-based profile system** with better scalability and personalization.
+Ally Bank decided to deprecate our legacy user marketing profile service and migrate to a new **cloud-based profile system** with better scalability and personalization.
 
 **T – Task:**
 I was responsible for leading the iOS-side migration—ensuring no downtime, data loss, or performance issues during rollout.
@@ -144,7 +144,7 @@ Product teams gained **richer user behavior data**, which improved onboarding fl
 
 Because I bring a strong combination of **deep technical skills**, **financial app experience**, and **proven leadership** in high-stakes environments.
 
-I've delivered secure, enterprise-grade iOS apps for **7+ years** at banks like **Truist** and **Capital One**, working with **Swift, UIKit, SwiftUI**, and modern architecture like **MVVM-C**. I’ve implemented biometric auth flows that meet **SOC 2 and FFIEC** standards, mentored engineers, and improved CI/CD pipelines to make releases smoother and safer.
+I've delivered secure, enterprise-grade iOS apps for **7+ years** at banks like **Ally Bank** and **Capital One**, working with **Swift, UIKit, SwiftUI**, and modern architecture like **MVVM-C**. I’ve implemented biometric auth flows that meet **SOC 2 and FFIEC** standards, mentored engineers, and improved CI/CD pipelines to make releases smoother and safer.
 
 I know how to build apps that users **trust**, and I understand the **regulatory and performance demands** of a bank like **Bank of America**. I’m confident I can make an immediate impact on your mobile team while continuing to grow into a leadership role.
 
