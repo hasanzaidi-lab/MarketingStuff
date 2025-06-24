@@ -7,7 +7,7 @@
 
 * Check for code clarity, readability, and maintainability
 * Enforce architecture and naming conventions
-* Ensure SOLID principles and single-responsibility
+* Ensure [SOLID](https://github.com/hasanzaidi-lab/MarketingStuff/blob/587152196a3bdd11c9cb07bc93f731464570cf30/Monday_06_23/ArchAndDesignReadme.md#22-solid-principles-with-examples) principles and single-responsibility
 * Validate thread safety, memory leaks, and force unwraps
 * Suggest better ways to use patterns like MVVM, Combine, etc.
 
