@@ -5,10 +5,10 @@ Here’s your **iOS Developer Mini Cheatsheet** — clean, categorized, and fast
 
 ## 🛠️ Languages & Architecture
 
-* **Swift** – Main iOS programming language
+* **[Swift](https://github.com/hasanzaidi-lab/MarketingStuff/blob/main/ReadmeNotes/SwiftReadme.md#-optionals)** – Main iOS programming language
   `let name = "Hasan"`
 
-* **SwiftUI** – Declarative UI
+* **[SwiftUI](https://github.com/hasanzaidi-lab/MarketingStuff/blob/main/ReadmeNotes/SwiftUIReadme.md#-swiftui-fundamentals)** – Declarative UI
 
   ```swift
   Text("Hello, SwiftUI")
