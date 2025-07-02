@@ -182,7 +182,7 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 * Designs iOS apps following **SOLID principles** for **clean, maintainable, and scalable code*
 * Committed to building apps users **trust and rely on**, solving complex challenges like **login reliability**, **offline support**, and **energy-efficient UI**
 
-* And I feel strongly that i will be an asset to the [end client]
+* I will be a valuable asset to [end client], contributing my expertise and dedication to their success.
 
 
 
