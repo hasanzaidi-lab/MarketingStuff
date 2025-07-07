@@ -47,7 +47,8 @@ class ViewController: UIViewController, UITableViewDataSource, UISearchBarDelega
             isSearching = true
             filteredCountries = viewModel.countries.filter {
                 $0.name.lowercased().contains(searchText.lowercased()) ||
-                $0.capital.lowercased().contains(searchText.lowercased())
+                $0.capital.lowercased().contains(searchText.lowercased()) ||
+                $0.code.lowercased().contains(searchText.lowercased())
             }
         }
         tableView.reloadData()
