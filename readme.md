@@ -144,7 +144,7 @@ Product teams gained **richer user behavior data**, which improved onboarding fl
 
 Because I bring a strong combination of **deep technical skills**, **financial app experience**, and **proven leadership** in high-stakes environments.
 
-I've delivered secure, enterprise-grade iOS apps for **7+ years** at banks like **Ally Bank** and **Capital One**, working with **Swift, UIKit, SwiftUI**, and modern architecture like **MVVM-C**. I’ve implemented biometric auth flows that meet **SOC 2 and FFIEC** standards, mentored engineers, and improved CI/CD pipelines to make releases smoother and safer.
+I've delivered secure, enterprise-grade iOS apps for **7+ years** at banks like **Ally Bank**, working with **Swift, UIKit, SwiftUI**, and modern architecture like **MVVM-C**. I’ve implemented biometric auth flows that meet **SOC 2 and FFIEC** standards, mentored engineers, and improved CI/CD pipelines to make releases smoother and safer.
 
 I know how to build apps that users **trust**, and I understand the **regulatory and performance demands** of a bank like **Bank of America**. I’m confident I can make an immediate impact on your mobile team while continuing to grow into a leadership role.
 
