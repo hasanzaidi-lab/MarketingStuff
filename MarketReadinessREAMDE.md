@@ -184,6 +184,7 @@ Followed **Apple's best practices** for **accessibility**, **offline support**, 
 
 💬 "**I’ll be a valuable asset to \[End Client] because I bring more than just technical skills—I understand the business logic behind the product. That means I can build solutions that aren’t just functional, but aligned with your goals.**"
 
+In the next 3 to 5 years, I see myself as an effective Technical Team Lead / Project Manager at [the Bank of America] who delivers Projects on Time, within Budget, and up to Quality Standards!
 ---
 
 
