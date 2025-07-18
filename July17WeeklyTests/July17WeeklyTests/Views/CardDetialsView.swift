@@ -45,12 +45,14 @@ struct CardDetialsView: View {
                     }
                 }
                 
-                PriceView(price: "$129")
+                PriceView(price: "\(price)")
                 
             }
             VStack {
                 ActionBtnView()
             }
+            .frame(maxWidth: .infinity)
+
         }
         .padding()
         .background(Color.white)
@@ -61,5 +63,5 @@ struct CardDetialsView: View {
 }
 
 #Preview {
-    CardDetialsView(activityTitle: "String", numGuests: 3, day: "String", time: "String", price: "String")
+    CardDetialsView(activityTitle: "String", numGuests: 3, day: "String", time: "String", price: "$129")
 }

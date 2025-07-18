@@ -15,7 +15,7 @@ struct ActionBtnView: View {
             }) {
                 Text("Modify")
                     .font(.subheadline)
-                    .frame(maxWidth: .infinity)
+//                    .frame(maxWidth: .infinity)
                     .padding()
                     .background(Color.white)
                     .foregroundColor(.blue)
@@ -30,7 +30,7 @@ struct ActionBtnView: View {
             }) {
                 Text("Remove")
                     .font(.subheadline)
-                    .frame(maxWidth: .infinity)
+//                    .frame(maxWidth: .infinity)
                     .padding()
                     .background(Color.white)
                     .foregroundColor(.red)
