@@ -207,7 +207,7 @@ In the next 3 to 5 years, I see myself as an effective Technical Team Lead / Pro
 
 * Led architecture of secure banking features like **Face ID / Touch ID** (LocalAuthentication) login
 * Drove adoption of **MVVM-C** and **Combine** for cleaner, modular code
-* Built offline persistence with **CoreData** and background syncing for smooth user experience
+* Built offline persistence with [**CoreData**](https://github.com/hasanzaidi-lab/MarketingStuff/blob/main/ReadmeNotes/StorageReadme.md) and background syncing for smooth user experience
 * Developed custom networking layer with retry logic and error handling
 * Collaborated with security teams to ensure **Keychain** compliance and data protection
 * Mentored junior developers, led code reviews, and improved team code quality
