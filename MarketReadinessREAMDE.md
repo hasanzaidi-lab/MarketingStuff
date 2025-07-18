@@ -205,7 +205,7 @@ In the next 3 to 5 years, I see myself as an effective Technical Team Lead / Pro
 
 ### 🏦 **Lead iOS Engineer – Ally Bank (Digital Banking App)**
 
-* Led architecture of secure banking features like **Face ID / Touch ID** login
+* Led architecture of secure banking features like **Face ID / Touch ID** (LocalAuthentication) login
 * Drove adoption of **MVVM-C** and **Combine** for cleaner, modular code
 * Built offline persistence with **CoreData** and background syncing for smooth user experience
 * Developed custom networking layer with retry logic and error handling
